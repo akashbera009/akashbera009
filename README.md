@@ -21,16 +21,17 @@ You can click the Preview link to take a look at your changes.
 -🚀 What I Do:
 Crafting intuitive and responsive web applications
 Exploring innovative tech solutions and staying ahead of industry trends
-Contributing to open-source projects and collaborating with a vibrant community of developers
-📈 Current Focus:
+Contributing to open-source projects and collaborating with a vibrant community of developers  <br>
 
+📈 Current Focus:  <br>
 Building scalable web applications with React
 Exploring AI and machine learning with Python
-Improving user experiences through thoughtful UI/UX design
-🌍 Outside the Code:
-When I’m not coding, you’ll find me hiking through nature trails, diving into sci-fi novels, or experimenting with new recipes in the kitchen. I believe in a balanced life and continuously seek inspiration from different walks of life.
+Improving user experiences through thoughtful UI/UX design  <br>
 
-💬 Let’s Connect:
-Feel free to check out my repositories, explore my projects, or drop me a message. I’m always excited to collaborate on interesting projects or chat about technology and innovation!
+🌍 Outside the Code:  <br>
+When I’m not coding, you’ll find me hiking through nature trails, diving into sci-fi novels, or experimenting with new recipes in the kitchen. I believe in a balanced life and continuously seek inspiration from different walks of life.  <br>
+
+💬 Let’s Connect:  <br>
+Feel free to check out my repositories, explore my projects, or drop me a message. I’m always excited to collaborate on interesting projects or chat about technology and innovation!  <br>
 
 Looking forward to creating something awesome together!
