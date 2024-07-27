@@ -10,11 +10,11 @@
 akashbera009/akashbera009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--👋 Hey there! I’m [Your Name], a curious mind with a love for coding and problem-solving. With a knack for turning complex challenges into elegant solutions, I thrive in the realms of web development, software engineering, and open-source contributions.
+-👋 Hey there! I’m Akash Bera, a curious mind with a love for coding and problem-solving. With a knack for turning complex challenges into elegant solutions, I thrive in the realms of web development, software engineering, and open-source contributions.
 
 🔧 Skills & Technologies:
 
--💻 Languages: HTML, CSS, JavaScript, Python, PHP, Java
+-💻 Languages: HTML, CSS, JavaScript, Python, PHP, Java  <br>
 -🛠️ Frameworks: React
 -🛠️ Tools: Git, Docker, VSCode, Figma
 
