@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 🔧 Skills & Technologies:
 
 -💻 Languages: HTML, CSS, JavaScript, Python, PHP, Java  <br>
--🛠️ Frameworks: React
+-🛠️ Frameworks: React  <br>
 -🛠️ Tools: Git, Docker, VSCode, Figma
 
 -🚀 What I Do:
