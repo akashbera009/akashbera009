@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashbera009
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on webdev, MERN stack, IoT
 - 📫 Reach me at <a href="https://www.linkedin.com/in/akash-bera-5a3009250/">Linkedin:</a>
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 🔧 Skills & Technologies:
 
 -💻 Languages: HTML, CSS, JavaScript, Python, PHP, Java  <br>
--🛠️ Frameworks: React  <br>
--🛠️ Tools: Git, Docker, VSCode, Figma
+-🛠️ Frameworks: React, Node, Mongo DB, Express <br>
+-🛠️ Tools: Git, Docker, VSCode, Canva
 
 -🚀 What I Do:
 Crafting intuitive and responsive web applications
