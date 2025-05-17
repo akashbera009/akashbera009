@@ -35,6 +35,6 @@ Versatile engineer with a passion for building scalable web and cloud applicatio
 ---
 
 📫 **Let's Connect**:
-[LinkedIn](https://www.linkedin.com/in/akashbera102003) | ✉️ [akashbera102003@gmail.com](mailto:akashbera102003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akashbera102003) | ✉️ [LeetCode](https://leetcode.com/u/AKASH_BERA/)  | [akashbera102003@gmail.com](mailto:akashbera102003@gmail.com) 
 
 ---
