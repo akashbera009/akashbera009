@@ -28,7 +28,7 @@ Versatile engineer with a passion for building scalable web and cloud applicatio
 
 ## 📚 Education & Certs
 
-* B.Tech in CSE @ UEM Jaipur (2026) | GPA: 8.6
+* B.Tech in CSE @ UEM Jaipur (2026) | GPA: 8.7
 * AWS SysOps Admin Certified
 * NPTEL & Cambridge English Certified
 
