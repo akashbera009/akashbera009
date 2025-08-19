@@ -14,11 +14,12 @@ Versatile engineer with a passion for building scalable web and cloud applicatio
 
 ## 🛠️ Projects
 
-* **💧 DWWP System**: IoT-based water monitoring with Firebase & Razorpay
-* **☁️ Cloud Media**: Secure MERN stack file storage platform
-* **🍽️ Foodieroute**: Restaurant management and recommendation system
-* **🎓 ScoreVault**: Secure certificate storage with auto PDF & email
-* **🌐 Tech Utopia**: College fest site built with WordPress
+* ** YuktiVerse **: AI-Powered Academic Support Platform — a MERN-stack web app
+* ** DWWP System**: IoT-based water monitoring with Firebase & Razorpay
+* ** Cloud Media**: Secure MERN stack file storage platform
+* ** Foodieroute**: Restaurant management and recommendation system
+* ** ScoreVault**: Secure certificate storage with auto PDF & email
+* ** Tech Utopia**: College fest site built with WordPress
 
 ## 🏆 Hackathons & Internships
 
