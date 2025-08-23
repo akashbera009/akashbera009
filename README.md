@@ -14,12 +14,13 @@ Versatile engineer with a passion for building scalable web and cloud applicatio
 
 ## 🛠️ Projects
 
-* ** YuktiVerse **: AI-Powered Academic Support Platform — a MERN-stack web app
-* ** DWWP System**: IoT-based water monitoring with Firebase & Razorpay
-* ** Cloud Media**: Secure MERN stack file storage platform
-* ** Foodieroute**: Restaurant management and recommendation system
-* ** ScoreVault**: Secure certificate storage with auto PDF & email
-* ** Tech Utopia**: College fest site built with WordPress
+* ** YuktiVerse **: AI-Powered Academic Support Platform — a MERN-stack web app [GitHub Repo](https://github.com/akashbera009/YuktiVerse)
+* ** DWWP System**: IoT-based water monitoring with Firebase & Razorpay [GitHub Repo](https://github.com/akashbera009/YuktiVerse](https://github.com/akashbera009/DWWP_2.0 )
+* ** Cloud Media**: Secure MERN stack file storage platform  [GitHub Repo](https://github.com/akashbera009/cloud-media)
+* ** Foodieroute**: Restaurant management and recommendation system  [GitHub Repo]([https://github.com/akashbera009/YuktiVerse](https://github.com/akashbera009/DWWP_2.0))
+* ** AceHack 4.0 Website**: Contributed to AehHack 4.0 Website for the main event [GitHub Repo](https://github.com/akashbera009/AceHack-website)
+* ** ScoreVault**: Secure certificate storage with auto PDF & email  [GitHub Repo](https://github.com/akashbera009/Score_Vault)
+* ** Tech Utopia**: College fest site built with WordPress  [Video Link ](https://drive.google.com/file/d/10cOmvpa6w_dxcEr9-6AdSixmWfnoeGWI/view?usp=drive_link )
 
 ## 🏆 Hackathons & Internships
 
