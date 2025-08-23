@@ -328,7 +328,6 @@ Tech Stack:
 
 ### ✨ *"Transforming ideas into elegant solutions, one commit at a time"* ✨
 
-<img src="https://komarev.com/ghpvc/?username=akashbera009&style=for-the-badge&color=58a6ff" alt="Profile Views"/>
 
 ---
 
